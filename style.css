@@ -1,0 +1,211 @@
+.div1
+{   width:300px;
+    height:600px;
+    margin-top: 60px;
+    margin-left: 60px;
+    background-color: rgb(207, 89, 89);
+    border-radius: 20px; 
+    background-color: white;
+}
+
+body{
+    background-color: #e9f2f2;
+}
+.img1{
+    width:50px;
+    height:45px;
+    margin-left: 10px;
+}
+.icon{
+   margin-left: 30px;
+    /* margin-top: 40px; */
+}
+.circle{
+    width:25px;
+    height:25px;
+    border: 1px gray;
+   
+    border-radius: 50%;
+    margin-left: 250px;
+    margin-top: -43px;
+}
+.div2{
+    width:900px;
+    height:70px;
+     background-color: white; 
+    position: relative;
+    top:-600px;
+    left:400px;
+    border-radius: 20px; 
+}
+input{
+    position: relative;
+    top:20px;
+    left:20px;
+    height:30px;
+    width:250px;
+    border:none;
+    outline:none;
+    padding-top: -20px;
+    background-color: rgba(128, 128, 128, 0.574);
+    border-radius: 10px;
+}
+.bt1{
+    background-color: #075ab3;
+    color:white;
+    font-size: small;
+    height:40px;
+    width:90px;
+    border:none;
+    position: relative;
+    left:480px;
+    top:12px;
+    border-radius: 16px;
+}
+.img2{
+    border-radius: 50%;
+    height:40px;
+    width:40px;
+    margin-left: 800px;
+    margin-top: -29px;
+}
+.img3{
+    border-radius: 50%;
+    height:30px;
+    width:30px;
+    margin-left: 30px;
+}
+.div3{
+    width:300px;
+    height:520px;
+    background-color: white;
+    margin-top: -580px;
+    margin-left: 390px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.div3 div{
+    width:300px;
+    height:50px;
+    border-top: 1px solid gray;
+  
+   
+}
+.div3-p{
+    font-weight: bold;
+    display: inline;
+    position: relative;
+    top:-19px;
+    left:10px;
+}
+.div4{
+    width:540px;
+    height:520px;
+    background-color: white;
+    position: relative;
+    top:-520px;
+    left:740px;
+    border-radius: 20px;
+}
+.pro{
+    width:60px;
+    height:60px;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.bt{
+    width:120px;
+    height:45px;
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+    top:-60px;
+    left:220px;
+}
+.note{
+    width:480px;
+    height:160px;
+    border: 1px solid rgba(128, 128, 128, 0.63);
+    margin-left: 20px;
+    border-radius: 20px;
+}
+.not-p{
+    margin-left: 16px;
+    margin-top: -2px;
+    font-size: 20px;
+}
+.gray{
+    background-color: rgba(128, 128, 128, 0.392);
+    width:480px;
+    height:118px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.icons{
+    height:50px;
+    width:480px;
+    border: 1px solid rgba(128, 128, 128, 0.63);
+    margin-left: 20px;
+    border-radius: 20px;
+    background-color: white;
+}
+.product{
+    width:480px;
+    height:70px;
+    border:1px solid rgba(128, 128, 128, 0.541);
+    border-radius: 20px;
+    margin-top: -30px;
+}
+.cap{
+    width:35px;
+    height:35px;
+    border-radius: 5px;
+    margin-top: 17px;
+    margin-left: 10px;
+}
+/* @media all and (min-width:320px) and (max-width:426px){
+    .div2{
+        margin-left: -350px;
+        width:1200px;
+        height:100px;
+    }
+    input{
+        width:400px;
+        height:40px;
+    }
+    .div1{
+        position: relative;
+        top:200px;
+        width:500px;
+        height:700px;
+    }
+    .div3{
+        position: relative;
+        top:20px;
+        left:250px;
+        width:500px;
+        height:700px;
+    }
+    .div4{
+        position: relative;
+        top:200px;
+        left:300px;
+        width:800px;
+    }
+    .bt1{
+        width:190px;
+        margin-left: -50px;
+        margin-top: 20px;
+    }
+    .p{
+        font-size:30px;
+       margin-top: -1px;
+    }
+    .img2{
+        margin-left: 660px;
+        position: relative;
+        top:25px;
+    }
+} */
